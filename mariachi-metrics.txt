@@ -1,0 +1,14 @@
+<!-- cmg metrics -->
+<?php include "metrics-head.inc";?>
+
+
+
+<!-- cmg footer metrics -->
+<script type="text/javascript">
+  var projectSite = "austin360";
+  var projectChannel = "entertainment"; // Medley Category
+  var projectCategory = "music"; // Medley subCategory
+  var projectSubCategory = "mariachi"; // project name
+</script>
+
+<?php include "metrics.inc";?>
